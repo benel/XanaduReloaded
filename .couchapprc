@@ -1,0 +1,5 @@
+{
+  "env": {
+    "db": "http://localhost:8000/xanadu_reloaded"
+  }
+}
